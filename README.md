@@ -73,6 +73,6 @@ jupyter notebook
 
 ## Author
 **Krit Prakash**  
-Machine Learning Engineer | NLP Specialist  
+Data Analyst with over 8 years of academic and training experience in Python, SQL, and Data Analytics  
 GitHub: https://github.com/lightonly1  
 LinkedIn: https://www.linkedin.com/in/krit-prakash-9a32a1246/
